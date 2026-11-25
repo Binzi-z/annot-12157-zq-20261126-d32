@@ -1,0 +1,7 @@
+{
+  "seq": 1,
+  "root_id": "root-E",
+  "generation": 1,
+  "reason": "root-E retired gen 1 during crash window",
+  "sig_hex": "c9a714cec19b905d7f45d5af1504837905fb25168dddc695b5835608d2a6930f1320131be8b9b75c34731256c5f1a0368a765b9a1c5b80aa186fee2a92e4e10a"
+}

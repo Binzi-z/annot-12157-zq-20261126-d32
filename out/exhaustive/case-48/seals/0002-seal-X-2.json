@@ -1,0 +1,11 @@
+{
+  "seq": 2,
+  "seal_id": "seal-X-2",
+  "pkg_no": "PKG-X",
+  "recipient": "CASE-X",
+  "evidence_digest": "aca07b6076744d950de901b2e123e6df742acb9557a4b3fe498d7daa34617ef9",
+  "generation": 1,
+  "reviewer_id": "rev-G2",
+  "chain_hash": "d37c8236d9b205875e3c4b684fa25aceb7e4161469a0183971da05ef88de3863",
+  "sig_hex": "0f715d643bf24131b8836896b2d702c836b1c99e87963dc8ab7c0e2db1624b3833e74d1ef622f99bd4b341b619b5fcb286da26ff47732b87a21cc306ecdc7500"
+}

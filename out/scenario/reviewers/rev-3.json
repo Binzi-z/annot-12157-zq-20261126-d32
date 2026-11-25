@@ -1,0 +1,12 @@
+{
+  "reviewer_id": "rev-3",
+  "chain": [
+    {
+      "from_id": "root-C",
+      "to_id": "rev-3",
+      "to_pub_hex": "21113e00bb9c541af8689d9f676e744c7eebac21bbb5b7cc76650b7adbabfc68",
+      "sig_hex": "2c4464f860ae55652a661c7e5dbe29f9165d4321100cacc33b8d343819b83793f6c9e3f2adc965a07da5697714c64de82389ad61002421d097320f79cb4a9401"
+    }
+  ],
+  "pub_hex": "21113e00bb9c541af8689d9f676e744c7eebac21bbb5b7cc76650b7adbabfc68"
+}

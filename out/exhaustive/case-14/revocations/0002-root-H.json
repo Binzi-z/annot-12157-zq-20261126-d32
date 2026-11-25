@@ -1,0 +1,7 @@
+{
+  "seq": 2,
+  "root_id": "root-H",
+  "generation": 1,
+  "reason": "exhaustive revoke H",
+  "sig_hex": "114d9b3ed702a1fe2a1d51e5df5a98f404e7010e38d6180f4ad52ee343169a09d8e33df2df6390929273b487cb9b949cbf6059bc4eafd53d9e097d5651f79c0a"
+}

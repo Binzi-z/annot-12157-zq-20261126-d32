@@ -1,0 +1,18 @@
+{
+  "reviewer_id": "rev-4",
+  "chain": [
+    {
+      "from_id": "root-C",
+      "to_id": "mid-C",
+      "to_pub_hex": "d256ec4a1b3565c931a56077efb00f79e4900d6eed93a09f87145f97dec98f8b",
+      "sig_hex": "d67de67975639794768f380144bfe94d4371223644edeb5526fc79245e854a735a18d206dfa366407e5c5acc4688f9313cae601bbc2741cd3fa41c94c32a250d"
+    },
+    {
+      "from_id": "mid-C",
+      "to_id": "rev-4",
+      "to_pub_hex": "3cf142349b41c24011e142c8ee2ede3066e2c426ce91a547ebe9700e22d1a89f",
+      "sig_hex": "b6a0e480840a7ab5189480cedcad03f8156dbc27fa9ab304f3301ef0dbe258a67cb440140c662e66392929bf6a919577fde20bbddd7b19f2177e14b8c5649300"
+    }
+  ],
+  "pub_hex": "3cf142349b41c24011e142c8ee2ede3066e2c426ce91a547ebe9700e22d1a89f"
+}

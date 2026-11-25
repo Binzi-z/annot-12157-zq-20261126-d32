@@ -1,0 +1,7 @@
+{
+  "seq": 1,
+  "root_id": "root-D",
+  "generation": 2,
+  "reason": "root-D key compromised at gen 2",
+  "sig_hex": "c23e83c9dfe49043e5e5a1cc0dd1f2b0525b6b41cea6a94288920e41382896133c489f5f834001b5bbc1215764c901842970b5fa5212ab63a40472a7316a4d00"
+}

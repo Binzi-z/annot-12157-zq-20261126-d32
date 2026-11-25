@@ -1,0 +1,9 @@
+{
+  "seq": 1,
+  "pkg_no": "PKG-0001",
+  "evidence_digest": "55718ce19ed44ea24f2c46bae6c4f2020509c93818f16b4107ab8d53434e4ac7",
+  "seal_ids": [
+    "seal-PKG-0001-1",
+    "seal-PKG-0001-2"
+  ]
+}

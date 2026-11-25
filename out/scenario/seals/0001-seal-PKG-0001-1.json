@@ -1,0 +1,11 @@
+{
+  "seq": 1,
+  "seal_id": "seal-PKG-0001-1",
+  "pkg_no": "PKG-0001",
+  "recipient": "CASE-0001",
+  "evidence_digest": "55718ce19ed44ea24f2c46bae6c4f2020509c93818f16b4107ab8d53434e4ac7",
+  "generation": 1,
+  "reviewer_id": "rev-1",
+  "chain_hash": "f5e3162afbab4b3da1e7e0a2257cce2a389420c89aab1e318e7013c684d49fe9",
+  "sig_hex": "6b6367d0274b6a8b58941b7bb0e7a8465c1efd2c3cc4d69342dd6a6e694fb1c9986a2690ec2d6ef94067e30bc4e46795a3c20e6706aea27262006b34fa0ab800"
+}
